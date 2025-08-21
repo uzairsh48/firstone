@@ -5,8 +5,8 @@
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#ffffff",
-  "theme_color": "#0B1542",
+  "background_color": "#0B1542",
+  "theme_color": "#000000",
   "description": "Track your daily Salah progress with ease.",
   "icons": [
     {
@@ -22,3 +22,4 @@
   ]
 
 }
+
